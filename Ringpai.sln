@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ringpai", "Ringpai.vbproj", "{941516F6-3B37-40F3-B77D-0038F233BA66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941516F6-3B37-40F3-B77D-0038F233BA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941516F6-3B37-40F3-B77D-0038F233BA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941516F6-3B37-40F3-B77D-0038F233BA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941516F6-3B37-40F3-B77D-0038F233BA66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17BB1422-84BC-4427-9F08-A476C2C15D38}
+	EndGlobalSection
+EndGlobal
