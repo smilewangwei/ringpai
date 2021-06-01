@@ -59,5 +59,11 @@
   <ItemGroup>
     <Folder Include="My Project\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MCF_上海.bas" />
+    <Compile Include="MCF_对账脚本生成汇总.bas" />
+    <Compile Include="MCF_苏南苏北.bas" />
+    <Compile Include="MCF_锁定.bas" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
