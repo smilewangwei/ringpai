@@ -59,9 +59,5 @@
   <ItemGroup>
     <Folder Include="My Project\" />
   </ItemGroup>
-  <ItemGroup>
-    <Compile Include="MCF_锁定.bas" />
-    <Compile Include="锁定优化.bas" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
